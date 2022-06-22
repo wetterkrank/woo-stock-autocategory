@@ -1,5 +1,6 @@
 # woo-stock-autocategory
-A plugin for WooCommerce to automatically keep in-stock products in a selected category.
+A plugin for WooCommerce to automatically keep in-stock products in a selected category.  
+Inititally developed for https://www.rococo-vintage.com/
 
 Installation:
 - Copy plugin files into the wp-content/plugins/woo-stock-autocategory directory
